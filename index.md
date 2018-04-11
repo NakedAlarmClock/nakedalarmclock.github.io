@@ -41,7 +41,7 @@ permalink: /
 - [IT] **Italiano**: [Sveglia Online](/sveglia-online/)
 
 ### J
-- [JP] **日本語**: [オンライン目覚まし時計](/onrain-mezamashidokei/)
+- [JA] **日本語**: [オンライン目覚まし時計](/onrain-mezamashidokei/)
 - [JV] **ꦧꦱꦗꦮ**:
 
 ### K
@@ -100,7 +100,7 @@ permalink: /
 - [??] LAH doen'nt have a 2-character language code
 - [PA] **ਪੰਜਾਬੀ**: 
 - [DE] **Deutsch**: [Online-Wecker](/online-wecker/)
-- [JP] **日本語**: [オンライン目覚まし時計](/onrain-mezamashidokei/)
+- [JA] **日本語**: [オンライン目覚まし時計](/onrain-mezamashidokei/)
 - [FA] **فارسی**: 
 - [SW] **Kiswahili**:
 - [TE] **తెలుగు**:
