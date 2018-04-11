@@ -4,6 +4,8 @@ description: Naked Alarm Clock (NAC) is online again!
 permalink: /
 ---
 
+The <abbr title="Naked Alarm Clock">NAC</abbr> project...
+
 ## NAC
 
 - [??]
