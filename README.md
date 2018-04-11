@@ -1,3 +1,7 @@
-# Naked Alarm Clock online on GitHub
+## NAC on GitHub
 
-We're putting the [Naked Alarm Clock](https://nakedalarmclock.github.io/) online again!
+We're putting the [Naked Alarm Clock online](https://nakedalarmclock.github.io/) again!
+
+```
+https://nakedalarmclock.github.io
+```
