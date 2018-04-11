@@ -85,6 +85,9 @@ permalink: /
 ### Y
 
 ### Z
+- [ZH] **中文**: [在线闹钟](/zaixian-naozhong/)
+
+---
 
 - [EN] **English**: [Online Alarm Clock](/online-alarm-clock/)
 - [??]
@@ -113,7 +116,7 @@ permalink: /
 - [??] YUE
 - [VI] **Tiếng Việt**: 
 
-- [CH] **中文**: [在线闹钟](/zaixian-naozhong/)
+- [ZH] **中文**: [在线闹钟](/zaixian-naozhong/)
 
 
 
