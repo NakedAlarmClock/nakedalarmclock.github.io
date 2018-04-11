@@ -126,4 +126,30 @@ permalink: /
 AR - BN - DE - EN - ES - FA - FR - HA - HI - IT - JP
 JV - KO - MR - MS - PA - PT - RU - SW - TA - TE - VI
 
+<select onchange="window.location.replace(this.options[this.selectedIndex].value)">
+  <option value="https://onlinealarmclock.github.io/en/" label="English">EN - Online Alarm Clock</option>
+  <option value="https://onlinealarmclock.github.io/es/" label="Español">ES - Alarma Reloj en Línea</option>
+  <option value="https://onlinealarmclock.github.io/hi/" label="हिन्दी">HI - ऑनलाइन अलार्म घड़ी</option>
+  <option value="https://onlinealarmclock.github.io/ar/" label="المنبه على الانترنت">AR - </option>
+  <option value="https://onlinealarmclock.github.io/ms/" label="Bahasa Melayu">MS - </option>
+  <option value="https://onlinealarmclock.github.io/ru/" label="Русский">RU - Онлайн будильник</option>
+  <option value="https://onlinealarmclock.github.io/bn/" label="বাংলা">BN -</option>
+  <option value="https://onlinealarmclock.github.io/pt/" label="Português">PT - Despertador Online</option>
+  <option value="https://onlinealarmclock.github.io/fr/" label="Français">FR - Réveil en Ligne</option>
+  <option value="https://onlinealarmclock.github.io/ha/" label="هَوُسَ">HA - </option>
+  <option value="https://onlinealarmclock.github.io/pa/" label="ਪੰਜਾਬੀ">PA - </option>
+  <option value="https://onlinealarmclock.github.io/de/" label="Deutsch">DE - Online-Wecker</option>
+  <option value="https://onlinealarmclock.github.io/jp/" label="日本語">JP - オンライン目覚まし時計</option>
+  <option value="https://onlinealarmclock.github.io/fa/" label="فارسی">FA - </option>
+  <option value="https://onlinealarmclock.github.io/sw/" label="Kiswahili">SW - </option>
+  <option value="https://onlinealarmclock.github.io/te/" label="తెలుగు">TE - </option>
+  <option value="https://onlinealarmclock.github.io/it/" label="Italiano">IT - Sveglia Online</option>
+  <option value="https://onlinealarmclock.github.io/jv/" label="ꦧꦱꦗꦮ">JV - </option>
+  <option value="https://onlinealarmclock.github.io/ko/" label="한국어">KO - 온라인 자명종</option>
+  <option value="https://onlinealarmclock.github.io/ta/" label="தமிழ்">TA - </option>
+  <option value="https://onlinealarmclock.github.io/mr/" label="मराठी">MR - </option>
+  <option value="https://onlinealarmclock.github.io/vi/" label="Tiếng">VI - Việt:</option>
+  <option value="https://onlinealarmclock.github.io/ch/" label="中文">CH - 在线闹钟</option>
+</select>
+
 [Naked Alarm Clock](https://nakedalarmclock.github.io/)
