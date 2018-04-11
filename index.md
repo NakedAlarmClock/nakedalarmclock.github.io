@@ -129,6 +129,7 @@ AR - BN - DE - EN - ES - FA - FR - HA - HI - IT - JP
 JV - KO - MR - MS - PA - PT - RU - SW - TA - TE - VI
 
 <select onchange="window.location.replace(this.options[this.selectedIndex].value)">
+  <option disabled="disabled" selected="selected">LANG ICON</option>
   <option value="https://nakedalarmclock.github.io/ar/" label="AR - المنبه على الانترنت">AR - </option>
   <option value="https://nakedalarmclock.github.io/bn/" label="BN - বাংলা">BN -</option>
   <option value="https://nakedalarmclock.github.io/de/" label="DE - Deutsch">DE - Online-Wecker</option>
@@ -154,4 +155,4 @@ JV - KO - MR - MS - PA - PT - RU - SW - TA - TE - VI
   <option value="https://nakedalarmclock.github.io/zh/" label="ZH - 中文">ZH - 在线闹钟</option>
 </select>
 
-⏰ [NAC | Naked Alarm Clock](https://nakedalarmclock.github.io/)
+⏰ [NAC – Naked Alarm Clock](https://nakedalarmclock.github.io/)
