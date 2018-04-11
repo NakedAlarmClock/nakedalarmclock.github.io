@@ -2,7 +2,7 @@ title:
   "Naked Alarm Clock"
   
 description:
-  "nakedalarmclock.github.io"
+  "NAC"
 
 github:
   "nakedalarmclock"
@@ -14,5 +14,4 @@ permalink:
   pretty
 
 gems:
-  - jekyll-sitemap
   - jekyll-seo-tag
