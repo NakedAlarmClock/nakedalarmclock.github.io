@@ -1,4 +1,10 @@
-## Online NAC
+---
+title: NAC
+description: Naked Alarm Clock (NAC) is online again!
+permalink: /
+---
+
+## NAC
 
 - **English**: [Online Alarm Clock](https://nakedalarmclock.github.io/online-alarm-clock/)
 - **Español**: [Alarma Reloj en Línea](https://nakedalarmclock.github.io/alarma-reloj-en-linea/)
