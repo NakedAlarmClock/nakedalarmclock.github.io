@@ -38,10 +38,10 @@ Texto inicial...
 - **Alarm Time** = *Hora do alarme*
 
 
-- **+15 minutes** = *+15 minutos**
-- **+30 minutes** = *+30 minutos**
-- **+45 minutes** = *+45 minutos**
-- **+60 minutes** = *+60 minutos**
+- **+15 minutes** = *+15 minutos*
+- **+30 minutes** = *+30 minutos*
+- **+45 minutes** = *+45 minutos*
+- **+60 minutes** = *+60 minutos*
 
 
 - **Set Alarm** = *Programar alarme*
