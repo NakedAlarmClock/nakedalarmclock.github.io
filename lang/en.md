@@ -9,8 +9,8 @@ permalink: /en/
 Test
 
 <select onchange="window.location.replace(this.options[this.selectedIndex].value)">
-  <option value="https://nakedalarmclock.github.io/en/" label="EN - English">EN - Online Alarm Clock</option>
-  <option disabled="disabled" selected="selected">---</option>
+  <option selected="selected" value="https://nakedalarmclock.github.io/en/" label="EN - English">EN - Online Alarm Clock</option>
+  <option disabled="disabled">---</option>
   <option value="https://nakedalarmclock.github.io/ar/" label="AR - المنبه على الانترنت">AR - </option>
   <option value="https://nakedalarmclock.github.io/bn/" label="BN - বাংলা">BN -</option>
   <option value="https://nakedalarmclock.github.io/de/" label="DE - Deutsch">DE - Online-Wecker</option>
