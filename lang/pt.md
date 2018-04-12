@@ -4,17 +4,17 @@ description: ...
 permalink: /pt/
 ---
   
-## Despertador Online
+# Despertador Online
 
 Introdução...
 
 ---
 
-### Tradução
+## Tradução
 
 Texto inicial...
 
-#### Top Bar
+### Top Bar
 
 - **Alarm: OFF**  = *Alarme desligado*
 - **Alarm: ON** = *Alarme ligado*
@@ -23,7 +23,7 @@ Texto inicial...
 - **[Click Here] or [Hit SPACEBAR]** = *[Clique Aqui] ou [aperte a BARRA DE ESPAÇO]*
 
 
-#### Current Time
+### Current Time
 
 - **Current Time** = *Hora agora*
 - **hr** = *horas*
@@ -33,7 +33,7 @@ Texto inicial...
 - **pm** = *após o meio-dia*
 
 
-#### Alarm Time
+### Alarm Time
 
 - **Alarm Time** = *Hora do alarme*
 
@@ -50,7 +50,7 @@ Texto inicial...
 - **Set for: 04:20:00 AM** = *Programado para: 04:20:00 antes do meio-dia*
 
 
-#### Test Audio
+### Test Audio
 
 - **Test Audio** = *Testar Áudio*
 - **1 - Alarm Clock Bell** = *Alarme de Sino*
@@ -59,7 +59,7 @@ Texto inicial...
 - **4 - Bugle Reveille** = *Alarme de Corneta*
 
 
-#### Other Messages
+### Other Messages
 
 **This is th Help Text area. Move your mouse over various controls of the alarm clock to view helpful information.** = *Esta é a área de texto de ajuda. Mova o mouse sobre vários controles do despertador para visualizar informações úteis.*
 
@@ -68,6 +68,6 @@ Texto inicial...
 
 ---
 
-### Segunda seção
+## Segunda seção
 
 Conteúdo
