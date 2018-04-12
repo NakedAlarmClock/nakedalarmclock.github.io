@@ -6,13 +6,18 @@ permalink: /pt/
   
 ## Despertador Online
 
+Introdução...
+
+---
+
+### Tradução
+
 - **Alarm: OFF**  = *Alarme desligado*
 - **Alarm: ON** = *Alarme ligado*
 
 - **Turn OFF Alarm** = *Desligar Alarme*
 - **[Click Here] or [Hit SPACEBAR]** = *[Clique Aqui] ou [aperte a BARRA DE ESPAÇO]*
 
----
 
 #### Current Time
 
@@ -23,7 +28,6 @@ permalink: /pt/
 - **am** = *antes do meio-dia*
 - **pm** = *após o meio-dia*
 
----
 
 #### Alarm Time
 
@@ -41,7 +45,6 @@ permalink: /pt/
 
 - **Set for: 04:20:00 AM** = *Programado para: 04:20:00 antes do meio-dia*
 
----
 
 #### Test Audio
 
@@ -51,7 +54,6 @@ permalink: /pt/
 - **3 - Digital Alarm** = *Alarme Digital*
 - **4 - Bugle Reveille** = *Alarme de Corneta*
 
----
 
 #### Other Messages
 
@@ -60,3 +62,7 @@ permalink: /pt/
 
 **This quickly adjusts alarm time to XX minutes from the current time. Remember, you still must press the Set Alarm button.** = *Isso ajusta rapidamente a hora do alarme para XX minutos a partir da hora atual. Lembre-se, você ainda deve pressionar o botão Set Alarm.*
 
+
+### Segunda seção
+
+Conteúdo
