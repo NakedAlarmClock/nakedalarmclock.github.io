@@ -14,7 +14,7 @@ Content goes right here...
 > - The current language version: `https://nakedalarmclock.github.io/en/`;
 > - One of the other 25 available languages: [click here to see the full list](/);
 >
-> **Thank you** so much! 😃
+> **Thank you** so much!
 
 ## Example of subtitle
 
