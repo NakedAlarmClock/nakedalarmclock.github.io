@@ -10,6 +10,15 @@ permalink: /pt/
 Essa página foi traduzida automaticamente através do Google Translator. Ajude-nos contribuindo com uma tradução real! Acesse "nakedalarmclock.github.io" para saber mais.
 ```
 
+```
+Essa página foi traduzida automaticamente através do Google Translator.
+Ajude-nos contribuindo com uma tradução real!
+
+Acesse: nakedalarmclock.github.io
+```
+
+`Essa página foi traduzida automaticamente através do Google Translator. Ajude-nos contribuindo com uma tradução real! Acesse "nakedalarmclock.github.io" para saber mais.`
+
 Introdução...
 
 ---
