@@ -25,6 +25,7 @@ The <abbr title="Naked Alarm Clock">NAC</abbr> project...
 | MS  | Bahasa Melayu      | <a href="https://nakedalarmclock.github.io/ms/">Jam Penggera dalam Talian</a>   |
 | NL  | Nederlands         | <a href="https://nakedalarmclock.github.io/nl/">Online Wekker</a>   |
 | PA  | ਪੰਜਾਬੀ             | <a href="https://nakedalarmclock.github.io/pa/">ਆਨਲਾਈਨ ਅਲਾਰਮ ਘੜੀ</a>            |
+| PL  | Polski            | <a href="https://nakedalarmclock.github.io/pl/">Budzik Online</a>                    |
 | PT  | Português          | <a href="https://nakedalarmclock.github.io/pt/">Despertador Online</a>          |
 | RU  | Русский            | <a href="https://nakedalarmclock.github.io/ru/">Онлайн будильник</a>            |
 | SV  | Svenska           | <a href="https://nakedalarmclock.github.io/sv/">Online Väckarklocka</a>                    |
@@ -33,15 +34,6 @@ The <abbr title="Naked Alarm Clock">NAC</abbr> project...
 | TE  | తెలుగు             | <a href="https://nakedalarmclock.github.io/te/">ఆన్లైన్ అలారం గడియారం</a>       |
 | VI  | Tiếng Việt         | <a href="https://nakedalarmclock.github.io/vi/">đồng hồ báo thức trực tuyến</a> |
 | ZH  | 中文               | <a href="https://nakedalarmclock.github.io/zh/">在线闹钟</a>                    |
-| PL  | Polski            | <a href="https://nakedalarmclock.github.io/zh/">Budzik Online</a>                    |
-
-## NAC
-
-- [??]
-- [??] LAH doen'nt have a 2-character language code
-- [??] WUU
-- [??] YUE
-
 
 ---
 
