@@ -5,6 +5,20 @@ image: /img-test.png
 permalink: /
 ---
 
+# Naked Alarm Clock
+
+Text goes here...
+
+## v2: Reloaded
+`https://nakedalarmclock.github.io/v2/`
+
+Content about **NAC Reloaded** goes here...
+
+## v1: Original
+`https://nakedalarmclock.github.io/v1/`
+
+---
+
 |  /  | LANG               |  LINK                                                                           |
 | :-- | :----------------- | :------------------------------------------------------------------------------ |
 | AR  | العَرَبِيَّة       | <a href="https://nakedalarmclock.github.io/ar/">المنبه على الانترنت</a>         |
