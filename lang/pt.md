@@ -12,6 +12,10 @@ Introdução...
 
 ### Tradução
 
+Texto inicial...
+
+#### Top Bar
+
 - **Alarm: OFF**  = *Alarme desligado*
 - **Alarm: ON** = *Alarme ligado*
 
@@ -62,6 +66,7 @@ Introdução...
 
 **This quickly adjusts alarm time to XX minutes from the current time. Remember, you still must press the Set Alarm button.** = *Isso ajusta rapidamente a hora do alarme para XX minutos a partir da hora atual. Lembre-se, você ainda deve pressionar o botão Set Alarm.*
 
+---
 
 ### Segunda seção
 
