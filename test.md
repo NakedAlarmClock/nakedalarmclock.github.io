@@ -4,7 +4,11 @@ description: ...
 permalink: /test/
 ---
 
-> **Please**, when referring to the Naked Alarm Clock project, link to the NAC homepage:
+# Example of Title
+
+Content goes right here...
+
+> **Please**, when referring to the *Naked Alarm Clock* project, link to the *NAC* homepage:
 >
 > - The global home page index: `https://nakedalarmclock.github.io/`;
 > - The current language version: `https://nakedalarmclock.github.io/en/`;
@@ -12,6 +16,8 @@ permalink: /test/
 >
 > **Thank you** so much! 😃
 
-# Example of Title
+## Example of subtitle
 
 Content goes right here...
+
+### Level 3 Heading Example
