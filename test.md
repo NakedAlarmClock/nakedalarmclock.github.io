@@ -9,8 +9,7 @@ permalink: /test/
 > - The global home page index: `https://nakedalarmclock.github.io/`;
 > - One of the available languages: `https://nakedalarmclock.github.io/en/` ([see all](/));
 >
-> -
-> Thanks! 😊
+> **Thank you** so much! :-)
 
 # Example of Title
 
