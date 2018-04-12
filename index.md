@@ -1,6 +1,7 @@
 ---
 title: NAC
 description: Naked Alarm Clock (NAC) is online again!
+image: /img-test.png
 permalink: /
 ---
 
