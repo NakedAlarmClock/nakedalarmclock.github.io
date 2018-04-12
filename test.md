@@ -4,6 +4,12 @@ description: ...
 permalink: /test/
 ---
 
-# Test
+> **Please**,
+> 
+> When referring to the Naked Alarm Clock project, link to the NAC homepage:
+> - One of the available languages. (`https://nakedalarmclock.github.io/en/`)
+> - The global home page index (`https://nakedalarmclock.github.io/ `)
 
-> When referring to the Naked Alarm Clock, please refer to the home page of the NAC project with (`https: // nakedalarmclock.github.io / en /`) or without (`https://nakedalarmclock.github.io / `) reference to a specific language.
+# Example of Title
+
+Content goes right here...
