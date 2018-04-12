@@ -4,8 +4,6 @@ description: Naked Alarm Clock (NAC) is online again!
 permalink: /
 ---
 
-The <abbr title="Naked Alarm Clock">NAC</abbr> project...
-
 |  /  | LANG               |  LINK                                                                           |
 | :-- | :----------------- | :------------------------------------------------------------------------------ |
 | AR  | العَرَبِيَّة       | <a href="https://nakedalarmclock.github.io/ar/">المنبه على الانترنت</a>         |
@@ -63,5 +61,3 @@ The <abbr title="Naked Alarm Clock">NAC</abbr> project...
   <option value="https://nakedalarmclock.github.io/vi/" label="VI - Tiếng Việt">VI - </option>
   <option value="https://nakedalarmclock.github.io/zh/" label="ZH - 中文">ZH - 在线闹钟</option>
 </select>
-
-⏰ [NAC – Naked Alarm Clock](https://nakedalarmclock.github.io/)
