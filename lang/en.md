@@ -5,12 +5,15 @@ permalink: /en/
 ---
 
 <header>
+  
 ## Online Alarm Clock
+
 </header>
 
 Content
 
 <footer>
-  Content
-</footer>
+  
 
+  
+</footer>
