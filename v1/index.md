@@ -1,5 +1,5 @@
 ---
-title: v1 – Naked Alarm Clock
+title: v1
 description: ...
 permalink: /v1/
 ---
