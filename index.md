@@ -26,7 +26,7 @@ Content about **NAC Reloaded** goes here...
 | BN  | বাংলা              | <a href="https://nakedalarmclock.github.io/bn/">অনলাইন এলার্ম ঘড়ি</a>          |
 | DE  | Deutsch            | <a href="https://nakedalarmclock.github.io/de/">Online-Wecker</a>               |
 | EN  | English            | <a href="https://nakedalarmclock.github.io/en/">Online Alarm Clock</a>          |
-| ES  | Español            | <a href="https://nakedalarmclock.github.io/es/">Alarma Despertador Online</a>   |
+| ES  | Español            | <a href="https://nakedalarmclock.github.io/es/">Alarma Reloj en Línea</a>      |
 | FA  | فارسی              | <a href="https://nakedalarmclock.github.io/fa/">ساعت زنگدار آنلاین</a>          |
 | FR  | Français           | <a href="https://nakedalarmclock.github.io/fr/">Réveil en Ligne</a>             |
 | HA  | هَوُسَ ?REMOVER    | <a href="https://nakedalarmclock.github.io/ha/">Agogon Agogo kan Layi</a>       |
