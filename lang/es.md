@@ -1,7 +1,7 @@
 ---
-title: Alarma Despertador Online
+title: Alarma Reloj en Línea
 description: ...
 permalink: /es/
 ---
 
-## Alarma Despertador Online
+## Alarma Reloj en Línea
